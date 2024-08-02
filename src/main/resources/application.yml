@@ -3,8 +3,8 @@ server:
 
 ---
 environment: integration
-myCustomVarTree:
-  customVar: 42
+myDevNameTree:
+  devName: "Erika"
 server:
   port: 3000
 
